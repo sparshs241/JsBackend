@@ -14,9 +14,6 @@ const loadTasks=()=>
         return []
     }
 
-    
-    
-    
 }
 
 const addTask=(task)=>{
